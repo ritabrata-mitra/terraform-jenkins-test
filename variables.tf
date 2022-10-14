@@ -1,5 +1,5 @@
 variable "bucket_name" {
-default = "rito-test-bucket-terraform-jenkins-integration"
+default = "rito-test"
 }
 
 variable name{
